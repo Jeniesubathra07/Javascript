@@ -26,7 +26,7 @@ Steps to Set Up:
 Clone the Repository:
 
 
-Use git clone https://github.com/Jeniesubathra07/Javascript/tree/main.git to clone the repository.
+Use git clone https://github.com/Jeniesubathra07/Javascript/tree/main to clone the repository.
 Navigate to the project folder using cd Javascript.
 
 
